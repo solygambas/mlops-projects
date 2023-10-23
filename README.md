@@ -1,4 +1,4 @@
-# MLOps projects
+# MLOps Projects
 
 Hands-on MLOps projects to explore and learn the practical aspects of machine learning engineering for production.
 
