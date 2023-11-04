@@ -11,5 +11,6 @@ Hands-on MLOps projects to explore and learn the practical aspects of machine le
 | 5   | [Predicting Patient Readmission](05-data-validation)                  | In-depth look at TFDV to generate and visualize statistics from a dataframe, infer a dataset schema, calculate, visualize, and fix anomalies.          |
 | 6   | [Hello World](06-simple-feature-engineering)                          | Simple feature engineering task to collect data, define metadata, create a preprocessing function, and generate a graph using TensorFlow Transform.    |
 | 7   | [Earnings Predictor Pipeline](07-feature-engineering-pipeline)        | Machine learning pipeline using TensorFlow Extended (TFX) components: ExampleGen, StatisticsGen, SchemaGen, ExampleValidator, and Transform.           |
+| 8   | [Traffic Volume Pipeline](08-feature-engineering)                     | Advanced feature engineering pipeline utilizing TFX components: data splitting, dataset analysis, validation, and transforms.                          |
 
 Based on [Machine Learning Engineering for Production (MLOps) Specialization](https://www.deeplearning.ai/courses/machine-learning-engineering-for-production-mlops/) by Andrew Ng, Laurence Moroney, and Robert Crowe (2023).
