@@ -14,5 +14,6 @@ Hands-on MLOps projects to explore and learn the practical aspects of machine le
 | 8   | [Traffic Volume Pipeline](08-feature-engineering)                     | Advanced feature engineering pipeline utilizing TFX components: data splitting, dataset analysis, validation, and transforms.                            |
 | 9   | [Breast Cancer Features Analysis](09-feature-selection)               | Exploration of various feature selection techniques: correlation-based filtering, recursive feature elimination (RFE), and feature importance embedding. |
 | 10  | [Chicago Taxi Metadata](10-ml-metadata)                               | Walkthrough of ML Metadata: recording and retrieving project metadata from a MetadataStore.                                                              |
+| 11  | [Income Dataset Schemas](11-iterative-schema)                         | Deep dive into updating an inferred schema and storing the updated version in the TFX metadata store.                                                    |
 
 Based on [Machine Learning Engineering for Production (MLOps) Specialization](https://www.deeplearning.ai/courses/machine-learning-engineering-for-production-mlops/) by Andrew Ng, Laurence Moroney, and Robert Crowe (2023).
