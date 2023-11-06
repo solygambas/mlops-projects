@@ -16,5 +16,6 @@ Hands-on MLOps projects to explore and learn the practical aspects of machine le
 | 10  | [Chicago Taxi Metadata](10-ml-metadata)                               | Walkthrough of ML Metadata: recording and retrieving project metadata from a MetadataStore.                                                              |
 | 11  | [Income Dataset Schemas](11-iterative-schema)                         | Deep dive into updating an inferred schema and storing the updated version in the TFX metadata store.                                                    |
 | 12  | [Forest Cover Pipeline Components](12-data-pipeline-components)       | Production ML data pipeline: data ingestion, data validation, and data transformation.                                                                   |
+| 13  | [Weather Data Transform](13-time-series-data)                         | Feature engineering process to prepare seasonal data: handle time series, periodicity, and produce batches of dataset windows.                           |
 
 Based on [Machine Learning Engineering for Production (MLOps) Specialization](https://www.deeplearning.ai/courses/machine-learning-engineering-for-production-mlops/) by Andrew Ng, Laurence Moroney, and Robert Crowe (2023).
