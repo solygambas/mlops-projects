@@ -17,5 +17,6 @@ Hands-on MLOps projects to explore and learn the practical aspects of machine le
 | 11  | [Income Dataset Schemas](11-iterative-schema)                         | Deep dive into updating an inferred schema and storing the updated version in the TFX metadata store.                                                    |
 | 12  | [Forest Cover Pipeline Components](12-data-pipeline-components)       | Production ML data pipeline: data ingestion, data validation, and data transformation.                                                                   |
 | 13  | [Weather Data Transformation](13-time-series-data)                    | Feature engineering process to prepare seasonal data: handling time series, periodicity, and producing batches of dataset windows.                       |
+| 14  | [Accelerometer Data Transformation](14-accelerometer-data)            | Preparation of raw sensor time-series data by grouping it into windows and extracting useful features.                                                   |
 
 Based on [Machine Learning Engineering for Production (MLOps) Specialization](https://www.deeplearning.ai/courses/machine-learning-engineering-for-production-mlops/) by Andrew Ng, Laurence Moroney, and Robert Crowe (2023).
