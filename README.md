@@ -19,6 +19,6 @@ Hands-on MLOps projects to explore and learn the practical aspects of machine le
 | 13  | [Weather Data Transformation](13-time-series-data)                    | Feature engineering process to prepare seasonal data: handling time series, periodicity, and producing batches of dataset windows.                       |
 | 14  | [Accelerometer Data Transformation](14-accelerometer-data)            | Preparation of raw sensor time-series data by grouping it into windows and extracting useful features.                                                   |
 | 15  | [Image Data Transformation](15-image-data)                            | Image data preprocessing: parsing images and converting them into float arrays for feature engineering.                                                  |
-| 16  | [Hyperparameter Tuning](16-keras-tuner)                               | Introduction to hyperparameter tuning with Keras Tuner: automate the search for optimal settings to enhance model performance and training efficiency.   |
+| 16  | [Hyperparameter Tuning](16-keras-tuner)                               | Introduction to hyperparameter tuning with Keras Tuner: automate the search for optimal settings to enhance model performances.                          |
 
 Based on [Machine Learning Engineering for Production (MLOps) Specialization](https://www.deeplearning.ai/courses/machine-learning-engineering-for-production-mlops/) by Andrew Ng, Laurence Moroney, and Robert Crowe (2023).
