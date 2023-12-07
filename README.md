@@ -22,4 +22,12 @@ Hands-on MLOps projects to explore and learn the practical aspects of machine le
 | 16  | [Hyperparameter Tuning](16-keras-tuner)                               | Introduction to hyperparameter tuning with Keras Tuner: automate the search for optimal settings to enhance model performances.                          |
 | 17  | [TFX Tuner and Model Training](17-tfx-tuner)                          | Introduction to hyperparameter tuning and model training with TFX.                                                                                       |
 
+## Google Cloud Skills Boost Resources
+
+| Type       | Title                                                                                                                        | Description                                                                                                              |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| **Lab**    | [A Tour of Google Cloud Hands-on Labs](https://www.cloudskillsboost.google/focuses/2794?parent=catalog)                      | Walkthrough of Google Cloud and the Qwiklabs platform.                                                                   |
+| **Lab**    | [Classify Images of Clouds in the Cloud with AutoML Images](https://www.cloudskillsboost.google/focuses/8406?parent=catalog) | Hands-on lab introducing the AutoML UI for classifying images of clouds in the Google Cloud environment.                 |
+| **Course** | [Integrate with Machine Learning APIs](https://www.cloudskillsboost.google/course_templates/630)                             | Hands-on course exploring basic features of the Cloud Vision API, Cloud Translation API, and Cloud Natural Language API. |
+
 Based on [Machine Learning Engineering for Production (MLOps) Specialization](https://www.deeplearning.ai/courses/machine-learning-engineering-for-production-mlops/) by Andrew Ng, Laurence Moroney, and Robert Crowe (2023).
