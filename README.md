@@ -23,6 +23,7 @@ Hands-on MLOps projects to explore and learn the practical aspects of machine le
 | 17  | [TFX Tuner and Model Training](17-tfx-tuner)                                    | Introduction to hyperparameter tuning and model training with TFX.                                                                                       |
 | 18  | [Manual Feature Engineering](18-manual-feature-engineering)                     | Exploration of the impact of manually transforming raw features to improve predictions, using TensorFlow and Keras.                                      |
 | 19  | [Algorithmic Dimensionality Reduction](19-algorithmic-dimensionality-reduction) | Explore dimensionality reduction algorithms using PCA, SVD, and NMF for improved model performance.                                                      |
+| 20  | [Quantization and Pruning](20-quantization-and-pruning)                         | Lab optimizing models for mobile and IoT devices using TF Lite format, post-training quantization, quantization aware training, and weight pruning.      |
 
 ## Google Cloud Skills Boost Resources
 
