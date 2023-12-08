@@ -21,6 +21,7 @@ Hands-on MLOps projects to explore and learn the practical aspects of machine le
 | 15  | [Image Data Transformation](15-image-data)                            | Image data preprocessing: parsing images and converting them into float arrays for feature engineering.                                                  |
 | 16  | [Hyperparameter Tuning](16-keras-tuner)                               | Introduction to hyperparameter tuning with Keras Tuner: automate the search for optimal settings to enhance model performances.                          |
 | 17  | [TFX Tuner and Model Training](17-tfx-tuner)                          | Introduction to hyperparameter tuning and model training with TFX.                                                                                       |
+| 18  | [Manual Feature Engineering](18-manual-feature-engineering)           | Exploration of the impact of manually transforming raw features to improve predictions, using TensorFlow and Keras.                                      |
 
 ## Google Cloud Skills Boost Resources
 
