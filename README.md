@@ -26,6 +26,7 @@ Hands-on MLOps projects to explore and learn the practical aspects of machine le
 | 20  | [Quantization and Pruning](20-quantization-and-pruning)                         | Lab optimizing models for mobile and IoT devices using TF Lite format, post-training quantization, quantization aware training, and weight pruning.      |
 | 21  | [Distributed Training](21-distributed-training)                                 | Explore distributed training in TensorFlow and Keras using a multi-worker training strategy.                                                             |
 | 22  | [Knowledge Distillation](22-knowledge-distillation)                             | Discover model compression through knowledge distillation, where a smaller student model learns from a more complex teacher model.                       |
+| 23  | [TensorFlow Model Analysis](23-tensorflow-model-analysis)                       | Dive into TensorFlow Model Analysis (TFMA) to analyze and visualize model performance across various data slices, set thresholds, and compare models.    |
 
 ## Google Cloud Skills Boost Resources
 
