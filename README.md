@@ -28,6 +28,7 @@ Hands-on MLOps projects to explore and learn the practical aspects of machine le
 | 22  | [Knowledge Distillation](22-knowledge-distillation)                             | Discover model compression through knowledge distillation, where a smaller student model learns from a more complex teacher model.                       |
 | 23  | [TensorFlow Model Analysis](23-tensorflow-model-analysis)                       | Dive into TensorFlow Model Analysis (TFMA) to analyze and visualize model performance across various data slices, set thresholds, and compare models.    |
 | 24  | [TFX Evaluator](24-tfx-evaluator)                                               | Explore model analysis in the TFX pipeline using TFX Evaluator to ensure trained models meet metrics requirements and compare with previous models.      |
+| 25  | [Fairness Indicators](25-fairness-indicators)                                   | Explore fairness metrics in a face image dataset using Fairness Indicators, analyzing model predictions across age groups.                               |
 
 ## Google Cloud Skills Boost Resources
 
