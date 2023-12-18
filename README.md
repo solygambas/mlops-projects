@@ -31,6 +31,7 @@ Hands-on MLOps projects to explore and learn the practical aspects of machine le
 | 25  | [Fairness Indicators](25-fairness-indicators)                                   | Explore fairness metrics in a face image dataset using Fairness Indicators, analyzing model predictions across age groups.                               |
 | 26  | [Shapley Values](26-shapley-values)                                             | Investigate SHAP (SHapley Additive exPlanations) by training a CNN and computing Shapley values for each class.                                          |
 | 27  | [Permutation Feature Importance](27-permutation-feature-importance)             | Train a Random Forest classifier, compute feature importance, re-train with top features, and compare with other classifiers.                            |
+| 28  | [Intro to Docker](28-intro-to-docker)                                           | Dive into the essential foundations for deploying Machine Learning models through Docker installation and curl setup.                                    |
 
 ## Google Cloud Skills Boost Resources
 
