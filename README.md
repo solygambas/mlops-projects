@@ -34,6 +34,7 @@ Hands-on MLOps projects to explore and learn the practical aspects of machine le
 | 28  | [Intro to Docker](28-intro-to-docker)                                           | Dive into the essential foundations for deploying Machine Learning models through Docker installation and curl setup.                                    |
 | 29  | [TensorFlow Serving with Docker](29-tensorflow-serving-with-docker)             | Get a first look at using TensorFlow Serving with Docker, a straightforward introduction to this serving system for machine learning models.             |
 | 30  | [Serve a Model with TensorFlow Serving](30-serve-model-with-tensorflow-serving) | Explore TensorFlow Serving without Docker, gaining insights into installation, loading models, REST API interaction, and model versioning.               |
+| 31  | [Deploy a ML model with fastAPI and Docker](31-deploy-fastapi-docker)           | Deploy a web server hosting a Random Forest classifier using FastAPI and Docker, exploring batching and single prediction endpoints.                     |
 
 ## Google Cloud Skills Boost Resources
 
