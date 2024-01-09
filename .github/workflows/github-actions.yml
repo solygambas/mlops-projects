@@ -1,6 +1,6 @@
 # Run unit tests for your Python application
 
-name: GitHub Actions Lab
+name: "GitHub Actions Lab"
 
 # Controls when the action will run.
 on:
