@@ -38,6 +38,7 @@ Hands-on MLOps projects to explore and learn the practical aspects of machine le
 | 32  | [Practice Kubernetes in your Local Environment](32-kubernetes-local-environment) | Expand your Kubernetes skills: set up Minikube locally, create objects with YAML, deploy Tensorflow model servers, and explore autoscaling.              |
 | 33  | [Load testing servers with Docker Compose and Locust](33-latency-test-compose)   | Conduct a load test on servers with Docker Compose and Locust, comparing latency across different batching configurations.                               |
 | 34  | [ETL Pipelines and Batch Predictions](34-etl-apache-beam-tensorflow)             | Explore the ETL (Extract, Transform, Load) process with Apache Beam and TensorFlow.                                                                      |
+| 38  | [Intro to CI/CD pipelines with GitHub Actions](38-github-actions)                | Explore GitHub Actions for automating ML workflows, including unit testing with pytest for code quality assurance.                                       |
 
 ## Google Cloud Skills Boost Resources
 
