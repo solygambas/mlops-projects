@@ -10,7 +10,7 @@ A simple React application that performs multilingual translation using Transfor
 
 To set up the project, run the following commands:
 
-```
+```bash
 npm install
 npm run dev
 ```
@@ -19,7 +19,7 @@ If you want to use a model locally from your public folder during dev mode, foll
 
 Otherwise, if you prefer to use the remote model, you need to build first:
 
-```
+```bash
 npm run build
 npm run preview
 ```
