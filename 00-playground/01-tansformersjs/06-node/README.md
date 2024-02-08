@@ -34,4 +34,4 @@ A simple Node.js API that uses Transformers.js for sentiment analysis.
 - setting up the project.
 - creating a basic HTTP server.
 
-Based on [Building a Vanilla JavaScript Application](https://huggingface.co/docs/transformers.js/tutorials/vanilla-js) by Transformers.js (2023).
+Based on [Server-side Inference in Node.js](https://huggingface.co/docs/transformers.js/tutorials/node) by Transformers.js (2023).
