@@ -1,0 +1,16 @@
+{
+  "name": "06-node",
+  "version": "1.0.0",
+  "description": "Server-side inference with Transformers.js (ESM)",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@xenova/transformers": "^2.15.0"
+  }
+}
