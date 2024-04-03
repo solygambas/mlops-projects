@@ -73,7 +73,16 @@ Hands-on MLOps projects to explore and learn the practical aspects of machine le
 | **Course** | [Create ML Models with BigQuery ML](https://www.cloudskillsboost.google/course_templates/626)                                   | Learn how to use BigQuery ML to create machine learning models, including classification, forecasting, and implementation of a chatbot.                |
 | **Course** | [Build and Optimize Data Warehouses with BigQuery](https://www.cloudskillsboost.google/course_templates/624)                    | Transform your data warehouse with BigQuery, covering joins, unions, table partitioning, and working with JSON, arrays, and structs.                   |
 | **Course** | [Foundational Data, ML, and AI Tasks in Google Cloud](https://www.cloudskillsboost.google/course_templates/631)                 | Explore basic features of Google Cloud's machine learning and AI technologies, covering BigQuery, Cloud Speech AI, Dataflow, Dataproc, and more.       |
-| **Course** | [Vector Search and Embeddings](https://www.cloudskillsboost.google/course_templates/939) | Learn about Vertex AI Vector Search and how to build search applications with large language model (LLM) APIs for embeddings. |
+| **Course** | [Vector Search and Embeddings](https://www.cloudskillsboost.google/course_templates/939)                                        | Learn about Vertex AI Vector Search and how to build search applications with large language model (LLM) APIs for embeddings.                          |
 
+## Get Inspired
+
+Check out our [collection of articles](https://www.onbusinessplan.com/) for those beginning their MLOps journey. Find tips, tricks, and motivational content to keep you engaged and motivated throughout your learning process.
+
+## Acknowledgments
 
 Based on [Machine Learning Engineering for Production (MLOps) Specialization](https://www.deeplearning.ai/courses/machine-learning-engineering-for-production-mlops/) by Andrew Ng, Laurence Moroney, and Robert Crowe (2023).
+
+## Show Your Support
+
+If you find these projects helpful or interesting, please consider starring the repository. It's a simple gesture that helps to boost the visibility of the project and show appreciation for the effort put into creating it. Thank you!
