@@ -43,6 +43,10 @@ Hands-on MLOps projects to explore and learn the practical aspects of machine le
 | 37  | [Model versioning with TensorFlow Serving and Docker](37-tfs-model-versioning)   | Learn to version machine learning models using TensorFlow Serving and Docker for controlled deployments and A/B testing.                                 |
 | 38  | [Intro to CI/CD pipelines with GitHub Actions](38-github-actions)                | Explore GitHub Actions for automating ML workflows, including unit testing with pytest for code quality assurance.                                       |
 
+## Get Inspired
+
+Check out our [**collection of articles**](https://www.onbusinessplan.com/) for those beginning their MLOps journey. Find tips, tricks, and motivational content to keep you engaged and motivated throughout your learning process.
+
 ## Google Cloud Skills Boost Resources
 
 | Type       | Title                                                                                                                           | Description                                                                                                                                            |
@@ -74,10 +78,6 @@ Hands-on MLOps projects to explore and learn the practical aspects of machine le
 | **Course** | [Build and Optimize Data Warehouses with BigQuery](https://www.cloudskillsboost.google/course_templates/624)                    | Transform your data warehouse with BigQuery, covering joins, unions, table partitioning, and working with JSON, arrays, and structs.                   |
 | **Course** | [Foundational Data, ML, and AI Tasks in Google Cloud](https://www.cloudskillsboost.google/course_templates/631)                 | Explore basic features of Google Cloud's machine learning and AI technologies, covering BigQuery, Cloud Speech AI, Dataflow, Dataproc, and more.       |
 | **Course** | [Vector Search and Embeddings](https://www.cloudskillsboost.google/course_templates/939)                                        | Learn about Vertex AI Vector Search and how to build search applications with large language model (LLM) APIs for embeddings.                          |
-
-## Get Inspired
-
-Check out our [**collection of articles**](https://www.onbusinessplan.com/) for those beginning their MLOps journey. Find tips, tricks, and motivational content to keep you engaged and motivated throughout your learning process.
 
 ## Acknowledgments
 
