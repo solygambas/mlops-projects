@@ -77,7 +77,7 @@ Hands-on MLOps projects to explore and learn the practical aspects of machine le
 
 ## Get Inspired
 
-Check out our [collection of articles](https://www.onbusinessplan.com/) for those beginning their MLOps journey. Find tips, tricks, and motivational content to keep you engaged and motivated throughout your learning process.
+Check out our [**collection of articles**](https://www.onbusinessplan.com/) for those beginning their MLOps journey. Find tips, tricks, and motivational content to keep you engaged and motivated throughout your learning process.
 
 ## Acknowledgments
 
