@@ -47,10 +47,6 @@ Hands-on MLOps projects to explore and learn the practical aspects of machine le
 
 Check out our [**collection of articles**](https://www.onbusinessplan.com/) for those beginning their MLOps journey. Find tips, tricks, and motivational content to keep you engaged and motivated throughout your learning process.
 
-## Share Your Insights
-
-We want to hear from you! Help us tailor our content to better meet your needs by participating in our brief survey. Your feedback is invaluable in guiding us to create the most relevant and useful resources for developers and freelancers. [**Take the survey here**](https://forms.gle/sSWJ4uAcTdFJu6W76).
-
 ## Google Cloud Skills Boost Resources
 
 | Type       | Title                                                                                                                           | Description                                                                                                                                            |
